@@ -23,6 +23,10 @@ https://www.oracle.com/ca-en/virtualization/technologies/vm/downloads/virtualbox
   
 https://www.kali.org/get-kali/#kali-platforms
 
+- **Jupyter Notebook** –
+
+  https://jupyter.org/
+
 - **Kestrel** (dernière version, via virtualenv `huntingspace`)
   
 https://kestrel.readthedocs.io/en/latest/index.html
