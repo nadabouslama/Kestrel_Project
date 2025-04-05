@@ -48,4 +48,4 @@ https://www.elastic.co/
 ## Scénario d'attaque simulée
 
 Technique MITRE ATT&CK :  
- **T1046 – Network Service Scanning**
+ **T1046 – Network Service Discovery**
