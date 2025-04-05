@@ -22,9 +22,8 @@ Ce projet vise à simuler des attaques sur un environnement virtuel et à analys
 - **ElasticSearch** – Backend de données
 
 ---
-##Scénario d'attaque simulée
 
-### 1. **Scan réseau avec Nmap**
+##Scénario d'attaque simulée
 
 Technique MITRE ATT&CK :  
  **T1046 – Network Service Scanning**
