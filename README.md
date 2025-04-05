@@ -5,7 +5,6 @@ Ce projet vise à simuler des attaques sur un environnement virtuel et à analys
 ---
 
 ## Objectifs
-
 - Simuler une attaque sur une machine cible via une machine Kali Linux
 - Utiliser **Nmap** et **Wireshark** pour analyser le réseau
 - Convertir les traces Wireshark en **STIX**
@@ -15,7 +14,6 @@ Ce projet vise à simuler des attaques sur un environnement virtuel et à analys
 ---
 
 ## Environnement technique
-
 - **Oracle VirtualBox** – Virtualisation
 - **Kali Linux 2023.3** – Machine d’attaque
 - **Kestrel** (dernière version, via virtualenv `huntingspace`)
@@ -24,7 +22,6 @@ Ce projet vise à simuler des attaques sur un environnement virtuel et à analys
 - **ElasticSearch** – Backend de données
 
 ---
-
 ##Scénario d'attaque simulée
 
 ### 1. **Scan réseau avec Nmap**
