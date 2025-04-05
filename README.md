@@ -10,6 +10,7 @@ Ce projet vise à simuler des attaques sur un environnement virtuel et à analys
 - Convertir les traces Wireshark en **STIX**
 - Installer et configurer **Kestrel** avec **ElasticSearch**
 - Identifier les tactiques MITRE ATT&CK mises en œuvre
+- Analayse Post attaque
 
 ---
 
