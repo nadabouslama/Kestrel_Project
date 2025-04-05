@@ -15,18 +15,30 @@ Ce projet vise à simuler des attaques sur un environnement virtuel et à analys
 ---
 
 ## Environnement technique
-- **Oracle VirtualBox** – Virtualisation :
+- **Oracle VirtualBox** – Virtualisation 
+  
 https://www.oracle.com/ca-en/virtualization/technologies/vm/downloads/virtualbox-downloads.html
+
 - **Kali Linux 2023.3** – Machine d’attaque
+  
 https://www.kali.org/get-kali/#kali-platforms
+
 - **Kestrel** (dernière version, via virtualenv `huntingspace`)
+  
 https://kestrel.readthedocs.io/en/latest/index.html
+
 - **Nmap** – Scan réseau
+  
   https://www.stationx.net/nmap-cheat-sheet/
+  
 - **Wireshark** – Analyse des paquets
+  
   https://www.wireshark.org/download.html
+  
 - **ElasticSearch** – Backend de données
+  
 https://www.elastic.co/
+
 ---
 
 ## Scénario d'attaque simulée
