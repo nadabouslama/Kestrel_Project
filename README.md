@@ -23,7 +23,7 @@ https://www.oracle.com/ca-en/virtualization/technologies/vm/downloads/virtualbox
   
 https://www.kali.org/get-kali/#kali-platforms
 
-- **Jupyter Notebook** –
+- **Jupyter Notebook** – Visualisation des analyses
 
   https://jupyter.org/
 
